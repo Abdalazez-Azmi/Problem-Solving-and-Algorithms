@@ -7,8 +7,14 @@
 //   reverse('Greetings!') === '!sgniteerG'
 
 function reverse(str) {
-    const x = 5
-console.log(x)
+if (str !== ("")) {
+    for (let index = 0; index < ("").length; index++) {
+    }
+    
+}
+
+
+
 }
 
 module.exports = reverse;
