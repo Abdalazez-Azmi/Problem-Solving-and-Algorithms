@@ -6,16 +6,21 @@
 //   reverse('hello') === 'olleh'
 //   reverse('Greetings!') === '!sgniteerG'
 
+
+// firstly we have string as an input 
+// output 
+const str=[""]
 function reverse(str) {
-if (str !== ("")) {
-    for (let index = 0; index < ("").length; index++) {
-    }
+
+for (let index = 0; index < str.length; index++) {
+    if (reverse === str) 
+    return ['']
     
 }
-
-
-
 }
+
+
+
 
 module.exports = reverse;
 

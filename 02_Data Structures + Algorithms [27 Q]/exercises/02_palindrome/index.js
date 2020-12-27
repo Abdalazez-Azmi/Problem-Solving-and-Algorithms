@@ -8,5 +8,10 @@
 //   palindrome("abcdefg") === false
 
 function palindrome(str) {}
-
+if ("abba"==="abbba") {
+    return true
+    if ("abcdefg"==="abcdefg") {
+        return false
+    }
+}
 module.exports = palindrome;
