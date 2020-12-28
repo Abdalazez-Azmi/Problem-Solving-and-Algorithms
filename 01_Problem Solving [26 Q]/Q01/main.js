@@ -9,20 +9,19 @@ return the first word from the string with that length.
 */
 
 function longestWord(sen) {
- const longestWord0=" "
- longestWord.sen.split=("")
- for (let index = 0; index < longestWord.length; index++) {     
- }
- if (longestword.length ) {
-     
- }
- return longestWord
-  
+const long=""
+longestWord.split=" "
+for (let index = 0; index < long.length; index++) {
+    if (long.length > longestWord.length )  
+    long = longestWord   
+}
+return longestWord
+}
 
-/* 
-Examples:
-longestWord('lol time'); // => 'time'
-longestWord('I love cats'); // => 'love'
-longestWord('coding is awesome'); // => 'awesome'
-longestWord('hello world'); // => 'hello'
-/*
+
+// Examples:
+// longestWord('lol time'); // => 'time'
+// longestWord('I love cats'); // => 'love'
+// longestWord('coding is awesome'); // => 'awesome'
+// longestWord('hello world'); // => 'hello'
+
