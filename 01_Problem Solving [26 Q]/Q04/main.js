@@ -14,7 +14,17 @@ If the username is valid then your program should return the string true, otherw
 */
 
 function usernameValidation(str) {
-  // YOUR CODE HERE
+const x = ""
+x.split=" "
+for (let index = 0; index < x.length; index++) {
+  if (x.length === usernameValidation.length) {
+    x = usernameValidation
+
+    
+  } 
+  
+}
+return usernameValidation
 }
 
 /* 

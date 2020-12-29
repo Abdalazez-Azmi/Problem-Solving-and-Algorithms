@@ -7,7 +7,6 @@ Have the function FindIntersection(strArr) read the array of strings stored in s
 */
 
 function findIntersection(strArr) {
-  // YOUR CODE HERE
   
 }
 
